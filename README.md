@@ -1,2 +1,2 @@
 # AutoSave
-Automatically download images from artstation
+Automatically download images from Artstation by simulating the behavior of browsers.
